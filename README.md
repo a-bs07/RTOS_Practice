@@ -27,14 +27,14 @@ The repository is organized into distinct, modular folders. Each directory conta
 • **rtos_010_adxl_with_wakeup**: Advanced ADXL implementation utilizing hardware wake-up interrupts to trigger RTOS events.
 • **FreeRTOS_002**: General hardware peripheral and RTOS initialization routines.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 • **OS/Framework:** FreeRTOS
 • **Language:** C / Embedded C
 • **Target Architectures:** ARM Cortex-M (STM32) 
 
 ---
 
-## ⚙️ STM32CubeIDE FreeRTOS Configuration
+##  STM32CubeIDE FreeRTOS Configuration
 
 To replicate these projects or start your own FreeRTOS project from scratch using STM32CubeIDE, follow these essential configuration steps inside the `.ioc` Device Configuration Tool:
 
